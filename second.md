@@ -1,3 +1,3 @@
-# Second file in a different way
+# Second.md
 
 second.md
